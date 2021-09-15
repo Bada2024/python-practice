@@ -14,7 +14,7 @@ print("cars")
 print("cars 2")
 
 
-def FiveFilms():
+def fiveFilms():
     #print first movie]
     print("toy story")
 
@@ -30,4 +30,19 @@ def FiveFilms():
         #print fifth movie
     print("cars 2")
 print("these are my top 5 movies")
-FiveFilms()
+fiveFilms()
+def favoriteFood():
+    print("pizza")
+def favoritesnack():
+    print("cheese Itz")
+def favoritecandy():
+    print("jollyRancher")
+def FavoriteShoe():
+    print("AJ1")
+def favoriteBrand():
+    print("nike")
+favoriteBrand()
+favoriteFood()
+favoritesnack()
+FavoriteShoe()
+favoritecandy()
