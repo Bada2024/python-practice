@@ -46,3 +46,10 @@ favoriteFood()
 favoritesnack()
 FavoriteShoe()
 favoritecandy()
+print("Bada")
+print("is my name")
+myNameis("Bada")
+def myNameIs(turtle):
+    print("turtle + "is my)
+
+    MyNameIs("bada")
