@@ -1,55 +1,9 @@
-#print 1st movie
-print("Toy story")
-
-#print 2nd movie
-print("toy story 2")
-
-#print 3rd movie
-print("inside out")
-
-#print 4th movie
-print("cars")
-
-#print 5th movie
-print("cars 2")
+#def madlib 
+def madlib(a,b,c,d,e,f,g,h,j):
+    #a adjective,b  noun,c adjective,d noun/place,e adjective,f adjective,g noun/vehicle,h adjective,j adjective
+    print("jump,phone,playing,walmart,throwing,eating,motorcycle,wearing,reading")
+print("Star Wars is a"+ madlib(a,b)+"of"+madlib(c)+"versus evil in a"+ madlib(d)+)
 
 
-def fiveFilms():
-    #print first movie]
-    print("toy story")
 
-        #print second movie
-    print("toy story 2")
 
-        #print third movie
-    print("inside out")
-
-        #print fourth movie
-    print("cars")
-
-        #print fifth movie
-    print("cars 2")
-print("these are my top 5 movies")
-fiveFilms()
-def favoriteFood():
-    print("pizza")
-def favoritesnack():
-    print("cheese Itz")
-def favoritecandy():
-    print("jollyRancher")
-def FavoriteShoe():
-    print("AJ1")
-def favoriteBrand():
-    print("nike")
-favoriteBrand()
-favoriteFood()
-favoritesnack()
-FavoriteShoe()
-favoritecandy()
-print("Bada")
-print("is my name")
-myNameis("Bada")
-def myNameIs(turtle):
-    print("turtle + "is my)
-
-    MyNameIs("bada")
